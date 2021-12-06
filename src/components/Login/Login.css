@@ -1,0 +1,49 @@
+.login_from{
+    margin: 0 auto;
+    width: 90%;
+    /* background-color: yellow; */
+    display: flex;
+    justify-content: center;
+    
+  }
+  .login_cover{
+      text-align: center;
+  }
+  .login_fields{
+      width: 60%;
+      margin: 0 auto;
+      padding-right: 25px;
+  }
+.login_part{
+    width: 50%;
+    /* background-color: tomato; */
+    color: #2DBDFE;
+    margin-top: 70px;
+    
+  }
+  .login_part img{
+    width: 50%;
+    text-align: center;
+  }
+  .log_box1{
+      margin-bottom: 20px;
+  }
+  .login_part input[type=email]{
+      border: none;
+      /* background-color: yellowgreen; */
+      padding: 10px;
+      width: 100%;
+      
+
+  }
+  .login_part input[type=password]{
+    border: none;
+    /* background-color: yellowgreen; */
+    padding: 10px;
+    width: 100%;
+   
+}
+  .login_banner{
+    width: 50%;
+    background-color: #61dafb;
+  }
