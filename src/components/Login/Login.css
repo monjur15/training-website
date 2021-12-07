@@ -13,6 +13,16 @@
       width: 60%;
       margin: 0 auto;
       padding-right: 25px;
+      position:relative;
+     
+      
+  }
+  .login_fields span{
+    position:absolute;
+    right:10px;
+    top:10px;
+    color: gray;
+
   }
 .login_part{
     width: 50%;
@@ -20,7 +30,9 @@
     color: #2DBDFE;
     margin-top: 70px;
     
+    
   }
+  
   .login_part img{
     width: 50%;
     text-align: center;
@@ -34,7 +46,7 @@
       padding: 10px;
       width: 100%;
       
-
+  
   }
   .login_part input[type=password]{
     border: none;
